@@ -47,7 +47,7 @@ streamlit run app.py
 
 ## Demo of the Application
 
-![image1](docs/architecture_diagram.png)
+![image1](docs/img1.png)
 
 ![image2](docs/img2.png)
 
