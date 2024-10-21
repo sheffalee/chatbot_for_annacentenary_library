@@ -11,7 +11,7 @@ This project develops a customized AI-driven chatbot for the Anna Centenary Libr
 - **Remote Access Support**: Provides access to digital collections from anywhere.
 - **Event Promotion**: Shares info on library events and services.
 - **Streamlit Interface**: Easy-to-use, intuitive design.
-- **Advanced Models**: Powered by GPT-4 and other leading AI models.
+- **Advanced Models**: Powered by GPT and other leading AI models.
 - **Python-based**: Built entirely in Python for flexibility and customization.
 
 ## System Architecture
