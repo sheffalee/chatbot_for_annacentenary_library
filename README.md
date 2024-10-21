@@ -4,8 +4,6 @@ This project develops a customized AI-driven chatbot for the Anna Centenary Libr
 
 ## Features
 
-### Highlighted Features (Short Explanation)
-
 - **24/7 User Support**: Always available for user assistance.
 - **FAQ Handling**: Instantly answers common questions.
 - **Resource Discovery**: Helps users find books, journals, and multimedia.
