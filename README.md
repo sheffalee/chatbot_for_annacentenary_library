@@ -14,6 +14,10 @@ This project develops a customized AI-driven chatbot for the Anna Centenary Libr
 - **Advanced Models**: Powered by GPT-4 and other leading AI models.
 - **Python-based**: Built entirely in Python for flexibility and customization.
 
+## System Architecture
+
+
+
 ## Installation
 Ensure you have Python installed on your system. Then clone this repository:
 
