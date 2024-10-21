@@ -13,3 +13,30 @@ This project develops a customized AI-driven chatbot for the Anna Centenary Libr
 - **Streamlit Interface**: Easy-to-use, intuitive design.
 - **Advanced Models**: Powered by GPT-4 and other leading AI models.
 - **Python-based**: Built entirely in Python for flexibility and customization.
+
+## Installation
+Ensure you have Python installed on your system. Then clone this repository:
+
+```bash
+git clone [repository-link]
+cd [repository-directory]
+```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Create your own .env file with the following variables:
+
+```bash
+OPENAI_API_KEY=[your-openai-api-key]
+```
+
+## Usage
+To run the Streamlit app:
+
+```bash
+streamlit run app.py
+```
