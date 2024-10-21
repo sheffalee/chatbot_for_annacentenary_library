@@ -16,7 +16,7 @@ This project develops a customized AI-driven chatbot for the Anna Centenary Libr
 
 ## System Architecture
 
-!(docs/architecture_diagram.png)
+![architecture_diagram](docs/architecture_diagram.png)
 
 ## Installation
 Ensure you have Python installed on your system. Then clone this repository:
