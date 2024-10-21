@@ -44,3 +44,15 @@ To run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
+
+## Demo of the Application
+
+![image1](docs/img1.png)
+
+![image2](docs/img2.png)
+
+![image3](docs/img3.png)
+
+![image4](docs/img4.png)
+
+![image5](docs/img5.png)
